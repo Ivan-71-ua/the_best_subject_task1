@@ -1,0 +1,39 @@
+.block-a {
+	width: 100%;
+	height: 400px;
+	position: relative;
+	border: 1px solid black;
+	color: blue;
+}
+
+.block-b {
+	width: 400px;
+	height: 200px;
+	background-color: red;
+	margin: 0 auto;
+	position: relative;
+	top: 100px;
+	color: white;
+}
+
+
+.block-c {
+	width: 110px;
+	height: 100px;
+	background-color: white;
+	color: red;
+	text-align: center;
+	line-height: 100px; 
+	position: absolute;
+	right: 0; 
+	top: 0;
+}
+
+.block-d {
+	width: 80px;
+	height: 20px;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	border: 1px solid black;
+}
